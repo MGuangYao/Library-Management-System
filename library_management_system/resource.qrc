@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/">
+    <file>image/background-3.png</file>
+    <file>image/mima.png</file>
+    <file>image/nm_ringtone_1702603996817.mp3</file>
+    <file>image/QQ图片20231214132116.png</file>
+    <file>image/yhy.png</file>
+    <file>image/yyy.png</file>
+    <file>image/zhanghao.png</file>
+    <file>image/znf.JPG</file>
+    <file>image/登录.png</file>
+    <file>image/起风了 - 夜空中最亮的星 (电子迷幻钢琴版).mp3</file>
+    <file>image/商务，营销.png</file>
+    <file>image/显示密码.png</file>
+  </qresource>
+</RCC>
