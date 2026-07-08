@@ -1,12 +1,12 @@
-# Pyside-sqlite3-
-Python结合Qt实现UI界面设计，sqlite3轻量级数据库实现存储少量数据
-book.db -> 数据库(包含三个表user, t_book, t_borrow)
-book.xlsx -> 批量导入图书excel文件
-main.py -> 主函数文件
-main.ui -> 图书管理系统界面
-login.ui -> 登录UI界面
-addBokk.ui -> 添加书籍UI界面
-modify.ui -> 修改界面
-modifyBook.ui -> 修改书籍信息界面
-modifyPassword.ui -> 修改密码界面
-resource.qrc -> Qt资源界面
+# Pyside-sqlite3
+- Python结合Qt实现UI界面设计，sqlite3轻量级数据库实现存储少量数据
+- book.db -> 数据库(包含三个表user, t_book, t_borrow)
+- book.xlsx -> 批量导入图书excel文件
+- main.py -> 主函数文件
+- main.ui -> 图书管理系统界面
+- login.ui -> 登录UI界面
+- addBokk.ui -> 添加书籍UI界面
+- modify.ui -> 修改界面
+- modifyBook.ui -> 修改书籍信息界面
+- modifyPassword.ui -> 修改密码界面
+- resource.qrc -> Qt资源界面
